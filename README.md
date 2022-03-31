@@ -23,12 +23,20 @@
 1. Before - Now - Done 3 Process로 구분하여 일의 진척도를 확인할 수 있다.
 2. Task는 각 Div에 직접 타이핑하여 추가할 수도 있고, text input란에 작성하여 Before Tasks에 자동으로 추가되게 할 수 있다.
 3. Task는 각 Div에 Drag & Drop으로 간편하게 상호 이동 가능하다.
-4. Task가 Done에 도달하면, 축하 파티션(풍선 등)을 띄워준다.
-5. 각 Task의 중요도를 깃발의 갯수(0~2개)로 표현하고, Task의 그룹을 색상 코드로 분류할 수 있다.
-6. Task의 dead line을 지정해줄 수 있다.
+4. Task가 Done에 도달하면, 음성과 함께 축하 파티션(풍선 등)을 띄워준다.
+5. Task를 우클릭 하면 데드라인, 그룹, 중요도를 설정할 수 있고 수정 및 삭제를 할 수 있다.
+6. 지정해준 그룹 별로 열람할 수 있다.
 
 
 # 프로토타입
+![001](https://user-images.githubusercontent.com/86288426/161016022-91c3f80e-6287-4e1c-a5b0-8d3463ecd5d3.png)
+[사진 1] 프로그램의 UI, 태스크 우클릭 시 상세수정이 가능하다.   
+
+![002](https://user-images.githubusercontent.com/86288426/161016195-222ced0e-0360-4b0b-b97a-967341a26961.png)
+[사진 2] 드래그 앤 드랍 기능   
+
+![003](https://user-images.githubusercontent.com/86288426/161016326-cadcf04d-6043-4b2f-a860-c3c07e507b6c.png)
+[사진 3] 할 일 완료 시 축하 음성과 파티클이 나타난다.
 
 
 # 기능 구현
