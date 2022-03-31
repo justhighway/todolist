@@ -20,11 +20,12 @@
 
 # 필요한 기능
 투두리스트에 추가할 기능을 정리해보면,
-1. Before - Now - Done 3 Process로 구분하여 일의 진척도를 확인할 수 있게 한다.
+1. Before - Now - Done 3 Process로 구분하여 일의 진척도를 확인할 수 있다.
 2. Task는 각 Div에 직접 타이핑하여 추가할 수도 있고, text input란에 작성하여 Before Tasks에 자동으로 추가되게 할 수 있다.
 3. Task는 각 Div에 Drag & Drop으로 간편하게 상호 이동 가능하다.
 4. Task가 Done에 도달하면, 축하 파티션(풍선 등)을 띄워준다.
 5. 각 Task의 중요도를 깃발의 갯수(0~2개)로 표현하고, Task의 그룹을 색상 코드로 분류할 수 있다.
+6. Task의 dead line을 지정해줄 수 있다.
 
 
 # 프로토타입
