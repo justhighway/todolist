@@ -24,4 +24,4 @@
 ---
 
 - PROTOTYPE <br>
-![](https://images.velog.io/images/flobeeee/post/340e3f20-df5f-4b5e-921c-6d4c24a3197d/image.png)
+![image](https://user-images.githubusercontent.com/86288426/168036641-5c9493b6-6a24-4e42-a240-487a36e2d0c6.png)
