@@ -1,7 +1,4 @@
 # momentum
-
-모멘텀 클론코딩(노마드코더 강의) 참고
-
 ---
 
 - 기술스택 : JS, HTML, CSS, LocalStorage <br >
@@ -27,5 +24,5 @@
 
 ---
 
-- PROTOTYPE
+- PROTOTYPE <br>
 ![](https://images.velog.io/images/flobeeee/post/340e3f20-df5f-4b5e-921c-6d4c24a3197d/image.png)
